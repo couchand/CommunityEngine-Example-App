@@ -1,8 +1,15 @@
 CommunityEngine Example App
 
+GitHub URL:
 https://github.com/couchand/CommunityEngine-Example-App
 
+Description:
 Example application to show the configuration of a new Rails3 social app using CommunityEngine.
 
+CommunityEngine Rails3 branch:
 https://github.com/bborn/communityengine/tree/rails3
+
+Note:
+1fa730945db06eef6f79c79dbd7e153d0a68751c was an error.
+c430edb8abfc98bbad9612a2cd59e8d8e1814b1e rolls back that commit and adds the right fix.
 
